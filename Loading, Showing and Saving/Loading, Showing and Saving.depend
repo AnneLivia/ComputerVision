@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1532205449 source:c:\users\annel\downloads\programming\computer vision\loading, showing and saving\namedwindow.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
+1532206033 source:c:\users\annel\downloads\programming\computer vision\loading, showing and saving\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+

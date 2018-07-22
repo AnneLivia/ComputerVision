@@ -1,0 +1,37 @@
+#include <iostream>
+#include <opencv2/opencv.hpp>
+#include <cstdint>
+
+using namespace std;
+using namespace cv;
+
+int main()
+{
+    Mat original = imread("horse1.jpg",CV_LOAD_IMAGE_GRAYSCALE);
+    Mat modified = imread("horse1.jpg",CV_LOAD_IMAGE_GRAYSCALE);
+    // Images are made of data, and that data can have different size.
+    // Can be float, size 32, double 64, and so on.
+    // In order to get pixel intensity value, you have to know the type of
+    // an image and the number of channels. Here is an example for a single
+    // channel grey scale image (type 8UC1) and pixel coordinates x and y:
+    // Scalar intensity = img.at<uchar>(y, x);
+    // intensity.val[0] contains a value from 0 to 255. Note the ordering of x and y.
+    // Since in OpenCV images are represented by the same structure as matrices, we
+    // use the same convention for both cases - the 0-based row index (or y-coordinate)
+    // goes first and the 0-based column index (or x-coordinate) follows it. Alternatively,
+    // you can use the following notation:
+    // Scalar intensity = img.at<uchar>(Point(x, y));
+    // Char = 8 bits
+
+    original.at<>(r,c);
+
+    for ( int i = 0; i < original.rows; i++) {
+        for ( int j = 0; j < ; j++) {
+
+        }
+    }
+
+
+    waitKey(0);
+    return 0;
+}
