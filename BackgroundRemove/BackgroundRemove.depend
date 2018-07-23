@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1532303675 source:c:\users\annel\downloads\programming\computer vision\backgroundremove\main.cpp
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	<stdlib.h>
+	<stdio.h>
+

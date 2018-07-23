@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532364629 source:c:\users\annel\downloads\programming\computer vision\detectcolor\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+	<map>
+
