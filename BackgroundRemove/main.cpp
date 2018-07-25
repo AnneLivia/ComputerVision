@@ -5,6 +5,12 @@
 
 using namespace cv;
 
+/*
+    Thresholding is a image processing method used to convert a grey scale image
+    (value of pixels ranging from 0-255) into binary image (value of pixels can have only 2 values: 0 or 1).
+
+*/
+
 int main() {
 
   Mat im = imread("images/horse6.jpg",CV_LOAD_IMAGE_COLOR);

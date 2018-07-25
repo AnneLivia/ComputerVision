@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532389459 source:c:\users\annel\downloads\programming\computer vision\threshold\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+

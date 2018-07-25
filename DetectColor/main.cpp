@@ -11,9 +11,22 @@ using namespace cv;
 */
 int main()
 {
-    Mat im = imread("images/yellow.jpg",CV_LOAD_IMAGE_COLOR);
+    Mat im = imread("images/purple.jpg",CV_LOAD_IMAGE_COLOR);
 
     Mat colors[11];
+
+    // Checks if array elements lie between the elements of two other arrays (upper bound and lower bound).
+    // dst(i) = lowerb <= array[i] <= upperb
+    // That is, dst (I) is set to 255 (all 1 -bits) if src (I) is within the specified 1D, 2D, 3D, ... box and 0 otherwise.
+
+    /*
+        Parameters
+        src	first input array.
+        lowerb	inclusive lower boundary array or a scalar.
+        upperb	inclusive upper boundary array or a scalar.
+        dst	output array of the same size as src and CV_8U type.
+
+    */
 
     inRange(im,Scalar(0,0,0),Scalar(46,46,46),colors[0]); // BLACK
     inRange(im,Scalar(94,0,0),Scalar(255,51,51),colors[1]); // DARK BLUE
