@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532744578 source:c:\users\annel\downloads\programming\computer vision\mask operation\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+	"opencv2/imgproc/imgproc_c.h"
+
