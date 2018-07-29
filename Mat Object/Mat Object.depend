@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532825999 source:c:\users\annel\downloads\programming\computer vision\mat object\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
