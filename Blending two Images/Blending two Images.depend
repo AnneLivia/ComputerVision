@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1533091213 source:c:\users\annel\downloads\programming\competitive programming\data structures\tree\blending two images\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
