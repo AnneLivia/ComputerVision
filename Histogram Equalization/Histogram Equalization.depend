@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536448390 source:c:\users\annel\desktop\histogram equalization\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+	<vector>
+

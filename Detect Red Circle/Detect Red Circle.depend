@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535835806 source:c:\users\annel\desktop\detect red circle\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
