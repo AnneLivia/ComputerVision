@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536429797 source:c:\users\annel\desktop\bluring and smoothing\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
