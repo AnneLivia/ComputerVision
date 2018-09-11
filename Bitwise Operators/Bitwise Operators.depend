@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536667867 source:c:\users\annel\desktop\bitwise operators\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
