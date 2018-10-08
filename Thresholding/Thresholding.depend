@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536347170 source:c:\users\annel\desktop\thresholding\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
