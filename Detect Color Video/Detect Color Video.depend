@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536621452 source:c:\users\annel\desktop\detect color video\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
