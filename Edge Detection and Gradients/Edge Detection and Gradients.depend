@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536438015 source:c:\users\annel\desktop\edge detection and gradients\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
