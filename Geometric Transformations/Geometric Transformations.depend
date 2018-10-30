@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537479219 source:c:\users\annel\desktop\geometric transformations\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
