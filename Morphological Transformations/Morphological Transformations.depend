@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536435779 source:c:\users\annel\desktop\morphological transformations\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
