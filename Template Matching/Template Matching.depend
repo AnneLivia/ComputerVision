@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1536532776 source:c:\users\annel\desktop\template matching\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+	<vector>
+
+1536532776 source:c:\users\annel\desktop\opencv\template matching\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+	<vector>
+
