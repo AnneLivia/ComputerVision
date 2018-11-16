@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536671791 source:c:\users\annel\desktop\haar cascade\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+	<vector>
+
